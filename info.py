@@ -1,2 +1,2 @@
-spotify_token = "BQCQN74GMur0Liun2u0T0Waxa7_a3T7ZU0cfUAxp1r3nsDrfWKNv_tU9ndO5HQidmtziCHqUTfbIMwudSVWgZSo831-jr-j25_ZNpMidGO9wO08ayv_0yVYTHMdqbQw5W-640arrqxIxWbJmwrN48lG2kCGE21tgIDrDIz-TQZkyQnbikXn_PZh7lhr0o_S78_gDhZ6dBi55xSAaOiZDTPAKBhkx"
-spotify_user_id = "9tjk084876xkgj4cda8auoa0a"
+spotify_token = "***insert your spotify oath token***"
+spotify_user_id = "***insert your spotify user id***"
